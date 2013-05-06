@@ -1,4 +1,11 @@
 [![Build Status](https://secure.travis-ci.org/Prinzhorn/skrollr.png)](http://travis-ci.org/Prinzhorn/skrollr)
+kroll(v 1.0 )
+===
+修订的版本
+
+- 取名为 kroll，见 ***`kroll`*** 分支
+- 支持多个实例
+- 支持某一层的动画暂停和恢复
 
 skrollr (v 0.5.14)
 =====
